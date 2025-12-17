@@ -1,5 +1,5 @@
 # statistical-learning
-Homework assignments and other course materials for Math 607 Statistical Learning, University of Oregon, Winter 2024.
+Homework assignments and other course materials for Math 607 Statistical Learning, University of Oregon, Winter 2026.
 
 This page contains the syllabus, lecture demonstration code, and homework assignments for the class. Homework assignments should be submitted via Canvas. 
 
